@@ -1,0 +1,2 @@
+# CGMINER
+CGMINER
